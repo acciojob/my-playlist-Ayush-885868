@@ -10,6 +10,10 @@ h1,h2,h3{
 li{
 	list-style-type:none;
 }
-li:a{
+a{
 	text-decoration-line:none;
+}
+..player_one/.player_two{
+	background-color: rgb(255, 255, 255);
+	padding:5px;
 }
